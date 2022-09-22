@@ -8,7 +8,7 @@
     "watch": "tailwind build -i src/main.css -o public/tailwind.css -w"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alexander Winkelmeier",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.12",
